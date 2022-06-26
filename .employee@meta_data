@@ -1,0 +1,7 @@
+
+id,pk,Integer
+name,,String
+phone,,Integer
+salary,,Integer
+job_id,,Integer
+number of columns = 5
